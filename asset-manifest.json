@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/inventrory-app/static/css/main.0e22bf24.chunk.css",
+    "main.js": "/inventrory-app/static/js/main.ee4ee73f.chunk.js",
+    "main.js.map": "/inventrory-app/static/js/main.ee4ee73f.chunk.js.map",
+    "runtime-main.js": "/inventrory-app/static/js/runtime-main.a0527721.js",
+    "runtime-main.js.map": "/inventrory-app/static/js/runtime-main.a0527721.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/inventrory-app/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.40459625.chunk.js": "/inventrory-app/static/js/2.40459625.chunk.js",
+    "static/js/2.40459625.chunk.js.map": "/inventrory-app/static/js/2.40459625.chunk.js.map",
+    "index.html": "/inventrory-app/index.html",
+    "precache-manifest.520b3b6bd4ae51a9b3302aad375acbef.js": "/inventrory-app/precache-manifest.520b3b6bd4ae51a9b3302aad375acbef.js",
+    "service-worker.js": "/inventrory-app/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/inventrory-app/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.0e22bf24.chunk.css.map": "/inventrory-app/static/css/main.0e22bf24.chunk.css.map",
+    "static/js/2.40459625.chunk.js.LICENSE.txt": "/inventrory-app/static/js/2.40459625.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0527721.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.40459625.chunk.js",
+    "static/css/main.0e22bf24.chunk.css",
+    "static/js/main.ee4ee73f.chunk.js"
+  ]
+}
